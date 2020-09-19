@@ -15,4 +15,4 @@ I'm Shreya Dadhich, Student at 👨‍💻 JECRC University Pursuing B.Tech. I a
 - 💬 Ping Me about #ML #Python, #DevOps, #Docker ,#Docker #Automation and anything you like
 ---
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushagarwal08&show_icons=true)
+![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=ShreyaDadhich8&show_icons=true)
