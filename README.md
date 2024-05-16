@@ -38,8 +38,6 @@
   ![Post](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 
-  <img align="right" alt="Coding" width="290" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-  
   ### 📝 Currently,
   - 🌱 I’m currently learning ArgoCD
   - ⚡ I’m currently learning ML, AI
