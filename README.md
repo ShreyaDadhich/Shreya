@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Dadhich</h1>
 <h3 align="center">A passionate Cloud Devops Engineer from India</h3>
 
-# Shreya Dadhich
 [![Linkedin Badge](https://img.shields.io/badge/-ShreyaDadhich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-dadhich-0566a1152/)](https://www.linkedin.com/in/shreya-dadhich-0566a1152/)
 [![Gmail Badge](https://img.shields.io/badge/-shreya.dadhich59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreya.dadhich59@gmail.com)](mailto:shreya.dadhich59@gmail.com)
 ---
