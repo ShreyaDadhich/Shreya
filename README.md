@@ -2,13 +2,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ShreyaDadhich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-dadhich-0566a1152/)](https://www.linkedin.com/in/shreya-dadhich-0566a1152/)
 [![Gmail Badge](https://img.shields.io/badge/-shreya.dadhich59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreya.dadhich59@gmail.com)](mailto:shreya.dadhich59@gmail.com)
 ---
-## Hi there, I am Shreya 👋           
+## Hi there,👋           
 
 🛢️ I'm a Software Developer and DevOps Engineer from India, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
 
 🔧 My toolkit includes an array of tools and technologies, including Docker, Kubernetes, Jenkins, Terraform, Ansible, and a host of scripting/programming languages. I believe in continuous integration, continuous delivery, and the power of infrastructure as code to streamline the software development lifecycle.</br>
 
-You can find some experimental and forked projects on my repos, feel free to contribute or use them. 😄
+😄 You can find some experimental and forked projects on my repos, feel free to contribute or use them. 
 
 ## As a Cloud & DevOps Engineer
 ![Cloud & DevOps Engineer](https://simplecoding.dev/assets/devops.gif)
