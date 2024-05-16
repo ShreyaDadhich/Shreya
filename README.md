@@ -1,9 +1,12 @@
+![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+
+<h1 align="center">Hi 👋, I'm Shreya Dadhich</h1>
+<h3 align="center">A passionate Cloud Devops Engineer from India</h3>
+
 # Shreya Dadhich
 [![Linkedin Badge](https://img.shields.io/badge/-ShreyaDadhich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreya-dadhich-0566a1152/)](https://www.linkedin.com/in/shreya-dadhich-0566a1152/)
 [![Gmail Badge](https://img.shields.io/badge/-shreya.dadhich59@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shreya.dadhich59@gmail.com)](mailto:shreya.dadhich59@gmail.com)
 ---
-## Hi there,👋           
-
 🛢️ I'm a Software Developer and DevOps Engineer from India, passionate about automating and optimizing software development, deployment, and infrastructure management. As a DevOps engineer, I thrive at the intersection of development and operations, working tirelessly to enhance the efficiency, scalability, and reliability of software systems.</br>
 
 🔧 My toolkit includes an array of tools and technologies, including Docker, Kubernetes, Jenkins, Terraform, Ansible, and a host of scripting/programming languages. I believe in continuous integration, continuous delivery, and the power of infrastructure as code to streamline the software development lifecycle.</br>
@@ -11,7 +14,6 @@
 😄 You can find some experimental and forked projects on my repos, feel free to contribute or use them. 
 
 ## As a Cloud & DevOps Engineer
-![Cloud & DevOps Engineer](https://simplecoding.dev/assets/devops.gif)
   ### ⚡ Domains
   - DevOps
   - Cloud
@@ -24,7 +26,6 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
   ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -37,13 +38,15 @@
   ![Post](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 
-  ### 🧐 About
+  <img align="right" alt="Coding" width="290" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
+  ### 📝 Currently,
   - 🌱 I’m currently learning ArgoCD
   - ⚡ I’m currently learning ML, AI
   - 👯 I’m looking to collaborate on Jenkins & Github Actions
   - 🤔 I’m looking for help with Ansible
 
-## Hello World!! 🤔
+## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything! 
 - 💬 Ping Me about #ML #Python, #DevOps, #Docker ,#Docker #Automation and anything you like
 ---
